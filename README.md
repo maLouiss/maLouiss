@@ -5,9 +5,9 @@
 
 <p align="left">
 </p>
-<img align="right" src="![Alt text](/posts/path/to/img.jpg "pro photo3")
-
-
+<img
+  src="/path/to/pro photo3.jpg"
+  style="display: inline-block; margin: 0 auto; max-width: 300px">
 
 
 <h3 align="left">👨‍💻Languages and Tools:</h3>

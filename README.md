@@ -1,13 +1,11 @@
-![image](https://github.com/maLouiss/maLouiss/assets/139463492/bd71d4e4-8ed3-499a-af7c-8d8dd2abc990)<h1 align="center">Hi 👋 I'm TahaYassineBenRomdhane</h1>
+<h1 align="center">Hi 👋 I'm TahaYassineBenRomdhane</h1>
 <h3 align="center">High school pioneer student</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=malouiss&label=Profile%20views&color=000000&style=flat-square" alt="malouiss" /> </p>
 
 <p align="left">
 </p>
-<img
-  src="/path/to/pro photo3.jpg"
-  style="display: inline-block; margin: 0 auto; max-width: 300px">
+![image](https://github.com/maLouiss/maLouiss/assets/139463492/bd71d4e4-8ed3-499a-af7c-8d8dd2abc990)
 
 
 <h3 align="left">👨‍💻Languages and Tools:</h3>
